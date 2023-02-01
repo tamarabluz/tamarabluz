@@ -2,8 +2,8 @@
 
 ## Hello, Devs 👋 I'm Tamara
 I'm a student in Systems Analysis and Development looking for opportunities and collaboration on projects.
-- 🔭 I am currently working on Invillia, I am improving my data structures and algorithms skills regularly.
-- 🌱 I am currently learning Java.
+- 🔭 I'm currently working on Invillia, I am improving my data structures and algorithms skills regularly.
+- 🌱 I'm currently learning Java.
 - 🤝 I'm looking to collaborate on projects.
 
 ### Tools and Technologies
@@ -15,8 +15,6 @@ I'm a student in Systems Analysis and Development looking for opportunities and 
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tamara-bernardo/)[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/tamaraprof/)[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">](tamarabluz@gmail.com)
  
- 
- ![Snake animation](https://github.com/tamarabluz/tamarabluz/blob/output/github-contribution-grid-snake.svg)
  
  
 
