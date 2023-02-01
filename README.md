@@ -1,6 +1,6 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
-### Hi 👋 I'm Tamara
+
+### Hello, Devs 👋 I'm Tamara
 I'm a student in Systems Analysis and Development looking for opportunities and collaboration on projects.
 - 🔭 I am currently working on Invillia, I am improving my data structures and algorithms skills regularly).
 - 🌱 I am currently learning Java.
@@ -13,7 +13,10 @@ I'm a student in Systems Analysis and Development looking for opportunities and 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
 
+##Social Networks
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tamara-bernardo/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/tamaraprof/)[<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](hhttp://gmail.com/tamarabluz/)
  
+ 
+ ![Snake animation](https://github.com/tamarabluz/tamarabluz/blob/output/github-contribution-grid-snake.svg)
  
 
