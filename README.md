@@ -2,7 +2,7 @@
 
 ## Hello, Devs 👋 I'm Tamara
 I'm a student in Systems Analysis and Development looking for opportunities and collaboration on projects.
-- 🔭 I'm currently working on Invillia, I am improving my data structures and algorithms skills regularly.
+- 🔭  I am currently seeking knowledge, improving my data structures and algorithms skills regularly.
 - 🌱 I'm currently learning Java.
 - 🤝 I'm looking to collaborate on projects.
 
